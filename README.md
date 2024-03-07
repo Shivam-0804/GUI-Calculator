@@ -2,6 +2,8 @@
 
 This project is a scientific calculator implemented in C++ using the Qt framework to provide a graphical user interface (GUI). It offers various mathematical functionalities, including basic arithmetic operations, trigonometric functions, logarithms, and calculation history recording.
 
+![calc](https://github.com/Shivam-0804/GUI-Calculator/assets/124515617/f8e83bff-c949-45e4-9ab7-0441ed55ef43)
+
 ## Features
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
