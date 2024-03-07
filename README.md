@@ -2,7 +2,6 @@
 
 This project is a scientific calculator implemented in C++ using the Qt framework to provide a graphical user interface (GUI). It offers various mathematical functionalities, including basic arithmetic operations, trigonometric functions, logarithms, and calculation history recording.
 
-![Image 2023-05-07 at 15 20 28_2db49745](https://github.com/Shivam-0804/GUI-Calculator/assets/124515617/618cd251-edf3-4b94-92dc-d320760fafbc)
 
 ## Features
 
@@ -54,4 +53,19 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ### Contributors
 
-- <span style="color:red">Shivam-0804</spa
+- <span style="color:red">Shivam-0804</span>
+- <span style="color:green">Abhinav</span>
+- <span style="color:blue">Aryan</span>
+- <span style="color:orange">Sabeeh</span>
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+- This project was made possible by the Qt framework.
+- Thanks to the contributors who helped improve and test the calculator.
+reduce the size of image
+
+![calc](https://github.com/Shivam-0804/GUI-Calculator/assets/124515617/f8e83bff-c949-45e4-9ab7-0441ed55ef43)
