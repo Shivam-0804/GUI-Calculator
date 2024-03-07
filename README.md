@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Scientific Calculator</h1>
-</div>
+# Scientific Calculator
 
 This project is a scientific calculator implemented in C++ using the Qt framework to provide a graphical user interface (GUI). It offers various mathematical functionalities, including basic arithmetic operations, trigonometric functions, logarithms, and calculation history recording.
 
@@ -54,6 +52,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ### Contributors
 
+- <span style="color:red">Shivam-0804</span>
 - <span style="color:green">Abhinav</span>
 - <span style="color:blue">Aryan</span>
 - <span style="color:orange">Sabeeh</span>
