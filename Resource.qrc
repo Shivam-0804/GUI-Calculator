@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/calculator.ico</file>
+        <file>icons/divided.ico</file>
+        <file>icons/cancel.ico</file>
+        <file>icons/root.ico</file>
+        <file>icons/minus.ico</file>
+        <file>icons/moon.ico</file>
+        <file>icons/multiplication.ico</file>
+        <file>icons/plus.ico</file>
+        <file>icons/power.ico</file>
+        <file>icons/record.ico</file>
+        <file>icons/reject.ico</file>
+        <file>icons/theme.ico</file>
+        <file>icons/about.ico</file>
+        <file>icons/iota.ico</file>
+        <file>icons/quadratic.ico</file>
+        <file>icons/simple.ico</file>
+        <file>icons/plus_minus.ico</file>
+        <file>icons/equal.ico</file>
+        <file>icons/dot.ico</file>
+        <file>icons/full-stop.ico</file>
+        <file>dark_icon/equal.ico</file>
+        <file>dark_icon/log.ico</file>
+        <file>dark_icon/root.ico</file>
+        <file>dark_icon/minus.ico</file>
+        <file>dark_icon/plus.ico</file>
+        <file>icons/logarithm.ico</file>
+        <file>dark_icon/backspace.ico</file>
+        <file>dark_icon/divide.ico</file>
+        <file>dark_icon/dot.ico</file>
+        <file>dark_icon/multiplication.ico</file>
+        <file>dark_icon/about.ico</file>
+        <file>dark_icon/complex.ico</file>
+        <file>dark_icon/iota.ico</file>
+        <file>dark_icon/quadractic.ico</file>
+        <file>icons/cube_root.ico</file>
+        <file>dark_icon/cube_root.ico</file>
+        <file>dark_icon/pi.ico</file>
+        <file>icons/pi.ico</file>
+    </qresource>
+</RCC>
