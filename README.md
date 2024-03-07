@@ -68,4 +68,4 @@ This project is licensed under the MIT License.
 - Thanks to the contributors who helped improve and test the calculator.
 reduce the size of image
 
-![calc](https://github.com/Shivam-0804/GUI-Calculator/assets/124515617/f8e83bff-c949-45e4-9ab7-0441ed55ef43)
+![image](https://github.com/Shivam-0804/GUI-Calculator/assets/124515617/f3ba49bc-f966-4aa1-b10e-1181e850459e)
