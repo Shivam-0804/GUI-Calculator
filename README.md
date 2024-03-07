@@ -1,4 +1,4 @@
-Scientific Calculator
+# Scientific Calculator
 This project is a scientific calculator implemented in C++ using the Qt framework to provide a graphical user interface (GUI). It offers various mathematical functionalities, including basic arithmetic operations, trigonometric functions, logarithms, and calculation history recording.
 
 Features
