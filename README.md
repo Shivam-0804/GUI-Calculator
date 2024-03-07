@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Scientific Calculator</h1>
 </div>
-![calc](https://github.com/Shivam-0804/GUI-Calculator/assets/124515617/d19ea720-f9a5-49be-a42b-c48ac9970028)
 
 This project is a scientific calculator implemented in C++ using the Qt framework to provide a graphical user interface (GUI). It offers various mathematical functionalities, including basic arithmetic operations, trigonometric functions, logarithms, and calculation history recording.
 
