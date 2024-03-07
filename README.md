@@ -50,6 +50,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Provide clear and concise commit messages.
 - Test your changes thoroughly before submitting a pull request.
 
+### Contributors
+
+- <span style="color:red">Shivam-0804</span>
+- <span style="color:green">abhis1n</span>
+- <span style="color:blue">Ocidemus</span>
+- <span style="color:orange">Sabeehahsan</span>
+
 ## License
 
 This project is licensed under the MIT License.
